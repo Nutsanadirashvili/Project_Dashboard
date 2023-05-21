@@ -22,7 +22,7 @@ Hier unsere zentralen Themen und Datenquellen.
   - [API](https://pickpoint.io/api-reference), welche die geographischen Daten des Nutzers wiedergibt:
 
 Projekt von:
-Nutsa Nadirashvili
-Lorenz Pilot
-Marvin Beckert
-Agnes Peuten
+Nutsa Nadirashvili /
+Lorenz Pilot /
+Marvin Beckert /
+Agnes Peuten /
