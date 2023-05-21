@@ -20,3 +20,9 @@ Hier unsere zentralen Themen und Datenquellen.
   - [API](https://waqi.info/de/), welche Luftqualität an verschiedenen Standorten ausgibt:
 - Position des Client
   - [API](https://pickpoint.io/api-reference), welche die geographischen Daten des Nutzers wiedergibt:
+
+Projekt von:
+Nutsa Nadirashvili
+Lorenz Pilot
+Marvin Beckert
+Agnes Peuten
